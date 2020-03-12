@@ -213,3 +213,4 @@ echo "################################################################## "
 echo
 echo "Deleting the build folder if one exists - takes some time"
 [ -d $buildFolder ] && sudo rm -rf $buildFolder
+[ -d work ] && sudo rm -rf work
