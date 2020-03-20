@@ -74,6 +74,11 @@ lutris
 linux-headers
 dkms
 youtube-dl
+gnome-logs
+gnome-system-log
+strongswan
+freerdp
+remmina
 
 # custom repo
 mint-x-icons
